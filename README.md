@@ -1,7 +1,7 @@
 # 틱톡 아이콘 및 new 트위터 아이콘 추가
 기존 버전이 업데이트가 되지않아, fork 후 틱톡과 새로운 트위터 (이하 X) 아이콘을 업데이트하였습니다.
-틱톡 Class명 : x-tiktok"
-X(트위터) Class명 : x-twitter-x"
+- 틱톡 Class명 : x-tiktok"
+- X(트위터) Class명 : x-twitter-x"
 
 
 
