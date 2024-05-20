@@ -3683,6 +3683,13 @@
   content: "\ec32";
 }
 
+.xi-tiktok:before {
+  content: "\e901";
+}
+.xi-twitter-x:before {
+  content: "\e900";
+}
+
 /* makes the font 33% larger relative to the icon container */
 .xi-x {
   font-size: 1.33333em;
