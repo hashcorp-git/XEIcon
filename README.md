@@ -1,3 +1,9 @@
+# 틱톡 아이콘 및 new 트위터 아이콘 추가
+기존 버전이 업데이트가 되지않아, fork 후 틱톡과 새로운 트위터 (이하 X) 아이콘을 업데이트하였습니다.
+
+
+
+
 # [XEIcon](http://xpressengine.github.io/XEIcon/)
 [한글 문서 바로가기 →](https://github.com/xpressengine/XEIcon/blob/master/README_kor.md)
 
