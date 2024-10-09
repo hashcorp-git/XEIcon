@@ -3689,7 +3689,9 @@
 .xi-twitter-x:before {
   content: "\ec39";
 }
-
+.xi-naver-band:before {
+  content: "\ec40";
+}
 /* makes the font 33% larger relative to the icon container */
 .xi-x {
   font-size: 1.33333em;
