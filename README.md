@@ -2,8 +2,9 @@
 기존 버전이 업데이트가 되지않아, fork 후 틱톡과 새로운 트위터 (이하 X) 아이콘을 업데이트하였습니다.
 
 폰트파일 다운로드 후 xeicon.min.css 파일과 동일한 폴더에 fonts/ 폴더 생성후 폰트추가 후 사용.
-- 틱톡 Class명 : xi-tiktok"
-- X(트위터) Class명 : xi-twitter-x"
+- 틱톡 Class명 : xi-tiktok
+- X(트위터) Class명 : xi-twitter-x
+- 네이버밴드 Class명 : xi-naver-band
 
 
 
