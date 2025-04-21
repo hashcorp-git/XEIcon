@@ -24,7 +24,8 @@ To get stared, check out [http://xpressengine.github.io/XEIcon](http://xpresseng
 - [Download the latest release](https://github.com/xpressengine/XEIcon/archive/master.zip).
 - Clone the repo: `git clone https://github.com/xpressengine/XEIcon.git`.
 - Install with [Bower](http://bower.io): `bower install xeicon`.
-- CDN by [jsDelivr](http://www.jsdelivr.com/#!xeicon): `<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/xeicon@2/xeicon.min.css">`
+- ~~CDN by [jsDelivr](http://www.jsdelivr.com/#!xeicon): `<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/xeicon@2/xeicon.min.css">`~~
+  CDN은 작동하지 않는 것 같음. 프로젝트 내부에 추가하는 것을 권장함
 
 - Install with [Bower](http://bower.io): 
 ```
